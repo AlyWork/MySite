@@ -1,0 +1,51 @@
+body {
+  background-color: #eae0cc;
+  margin: 0;
+  text-align: center;
+  position: relative;
+  font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+  font-size: 600%;
+  margin-top: 0;
+  font-family: 'Indie Flower', cursive;
+  line-height: 1;
+}
+
+h2{
+  font-family: 'Nanum Myeongjo', serif;
+  font-size: 200%
+}
+
+h3 {
+  font-family: 'Nanum Myeongjo', serif;
+}
+
+.top {
+  text-align: left;
+  padding: 20px;
+  padding-top: 300px;
+  margin-bottom: 300px;
+  position: static;
+  color: #58310f;
+  font-weight: bold;
+}
+
+.tea {
+  position: absolute;
+  right: 500px;
+  top: 250px;
+  margin: 0;
+  height: 400px;
+  width: 400px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
+
+.contact-me {
+  color: #58310f
+}
